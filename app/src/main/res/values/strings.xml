@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorCollector</string>
+
+    <string name="save">To file</string>
+    <string name="exit">Exit</string>
+    <string name="action_settings">Settings</string>
+</resources>
